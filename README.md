@@ -1,108 +1,113 @@
-Hi, I'm B Chaitanya Reddy 👋\n
-I'm a passionate Machine Learning Engineer and AI Enthusiast pursuing a B.Tech in Computer Science and Engineering at REVA University, Bengaluru (Class of 2027). I specialize in machine learning, deep learning, and Python programming, leveraging libraries like NumPy, Pandas, Scikit-learn, and TensorFlow to build innovative and efficient solutions. I thrive in collaborative environments, solving complex problems and delivering impactful results. I'm actively seeking opportunities to contribute to cutting-edge AI and machine learning projects while growing as a professional.
+# 👋 Hi, I'm B Chaitanya Reddy
 
-🚀 About Me
+🎓 **Aspiring Machine Learning Engineer | AI Enthusiast | B.Tech CSE @ REVA University (Class of 2027)**  
+📍 Bengaluru, Karnataka, India
 
-🔭 Currently working on: Agentic-AI-for-Sustainable-Farming, a multi-agent AI framework for sustainable agriculture, integrating soil type detection and real-time analytics.
-🌱 Currently learning: Generative AI, advanced deep learning techniques, and large language model optimization (e.g., fine-tuning LLMs, RAG frameworks).
-👯 Open to collaborating on: Open-source AI projects, data science initiatives, and innovative startups.
-💡 Fun fact: I love developing innovative, problem-solving skills to tackle complex challenges in the most effective and simplest way.
-🏢 Extracurriculars: Active member of GLUG (GNU/Linux User Group) and Robotics Club, and Dev Track Club at REVA University, contributing to hackathons, ideathons, and tech symposiums.
+I specialize in **Machine Learning**, **Deep Learning**, and **Python Programming**, leveraging libraries like **NumPy, Pandas, Scikit-learn, TensorFlow** to build efficient and innovative AI solutions. I thrive in collaborative environments, solving real-world problems with impactful results.
 
+---
 
-🛠️ Skills
+## 🚀 About Me
 
-Programming Languages: Python, Java, C
-Frameworks & Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Flask, Streamlit, NLTK
-Tools & Platforms: Git, Docker, Jupyter Notebook, VS Code
-Databases: MySQL, SQLite
-Domains: Machine Learning, Deep Learning, Data Science, Natural Language Processing (NLP)
-Methodologies: Data Preprocessing, Feature Engineering, Model Evaluation, Test-Driven Development
-Other: Data Visualization (Plotly, Seaborn), Web Development (HTML/CSS, JavaScript, Bootstrap), Web Crawling
+- 🔭 **Currently working on:** *Agentic-AI-for-Sustainable-Farming*, a multi-agent AI framework integrating soil type detection and real-time analytics.
+- 🌱 **Currently learning:** Generative AI, advanced deep learning, and large language model optimization (fine-tuning LLMs, RAG frameworks).
+- 👯 **Open to collaborating on:** Open-source AI projects, data science initiatives, and innovative startups.
+- 💡 **Fun fact:** I love developing problem-solving skills to tackle complex challenges effectively and simply.
+- 🏢 **Extracurriculars:** Active member of **GLUG and Robotics Club**, and **Dev Track Club** at REVA University, contributing to hackathons, ideathons, and symposiums.
 
+---
 
-💼 Experience
-Team Contributor
-Agentic-AI-for-Sustainable-Farming | Dev Track Club, REVA University, Bengaluru, Karnataka | May 2024 - Present  
+## 🛠️ Skills
 
-Collaborated on designing a multi-agent AI framework with specialized agents (Farmer, Weather Analyst, Sustainability Expert) to provide data-driven recommendations for sustainable farming.
-Implemented soil type detection using Pillow for image processing, achieving high accuracy in classifying soil types for crop optimization.
-Integrated SQLite database for storing farmer inputs and historical data, optimizing query performance for real-time analytics.
-Developed an interactive UI with Streamlit and Plotly, enabling farmers to visualize soil and weather data effectively.
+**Languages:** Python, Java, C  
+**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Flask, Streamlit, NLTK  
+**Tools & Platforms:** Git, Docker, Jupyter Notebook, VS Code  
+**Databases:** MySQL, SQLite  
+**Domains:** Machine Learning, Deep Learning, NLP, Data Science  
+**Other:** Data Visualization (Plotly, Seaborn), Web Crawling, Web Development (HTML/CSS, JS, Bootstrap)
 
-Key Developer
-VEXA Chatbot for Sahayak Organization | Remote | Feb 2025 - Mar 2025  
+---
 
-Designed a user-friendly chatbot for the Sahayak NGO to answer queries about its initiatives, mission, and recent activities, enhancing public engagement.
-Utilized NLP techniques with TensorFlow and NLTK to deliver accurate, context-aware responses, improving user interaction quality.
-Strengthened expertise in machine learning and deep learning by addressing complex conversational challenges, ensuring scalability and robustness.
+## 💼 Experience
 
-Lead Developer
-Bangla to English Translator | REVA University, Bengaluru, Karnataka | Nov 2025 - June 2025  
+### 🧑‍🤝‍🧑 Team Contributor – Agentic-AI-for-Sustainable-Farming  
+**Dev Track Club, REVA University** | *May 2024 – Present*  
+- Designed a multi-agent AI framework for sustainable agriculture with specialized agents (Farmer, Weather Analyst, Sustainability Expert).
+- Implemented **soil type detection** using Pillow for image processing.
+- Integrated **SQLite** for farmer data storage and real-time analytics.
+- Built interactive UI with **Streamlit** and **Plotly**.
 
-Developed a web application to translate Bangla text or images to English, improving accessibility for non-Bangla speakers.
-Implemented web crawling with BeautifulSoup to translate entire Bengali websites into English, streamlining content access.
-Built a keyword-based search mechanism to fetch detailed information from translated content, enhancing user experience and usability.
+### 🤖 Key Developer – VEXA Chatbot (Sahayak Organization)  
+**Remote** | *Feb 2025 – Mar 2025*  
+- Developed a chatbot for the NGO to answer queries on initiatives and activities.
+- Applied **NLP using TensorFlow and NLTK** for contextual responses.
+- Focused on scalability and user interaction quality.
 
+### 🌐 Lead Developer – Bangla to English Translator  
+**REVA University** | *Nov 2025 – Jun 2025*  
+- Created a translator for Bangla text/images to English.
+- Used **Tesseract OCR** and **web crawling** (BeautifulSoup) for full-site translation.
+- Added keyword-based search for detailed info retrieval from translated content.
 
-📚 Education
-B.Tech in Computer Science and EngineeringREVA University | Bengaluru, Karnataka | Expected Graduation: May 2027  
+---
 
-CGPA: 9.75/10  
-Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Computer Organization and Architecture, Operating Systems, Artificial Intelligence, C and Java Programming  
-Achievements:  
-Active contributor to GLUG, Robotics Club, and Dev Track Club at REVA University.  
-Won 1st place in ScreenSmart Ideathon conducted by School of ECE, REVA University (2024).  
-Finalist in Entellika Spark AI Hackathon conducted by NIE, Mysore (2024).  
-Recognized for innovative project solutions in university hackathons and tech symposiums.
+## 📚 Education
 
+**B.Tech in Computer Science and Engineering**  
+**REVA University, Bengaluru** | *Expected Graduation: May 2027*  
+**CGPA:** 9.75 / 10  
 
-🏆 Featured Projects
-Agentic-AI-for-Sustainable-Farming
-A multi-agent AI system designed to provide sustainable farming recommendations by analyzing soil types, weather data, and farmer inputs.  
+**Relevant Coursework:**  
+Data Structures and Algorithms, DBMS, COA, OS, AI, C and Java Programming  
 
-Tech Stack: Python, Streamlit, SQLite, Pillow, Plotly, Pandas  
-Key Features:  
-Soil type detection from images using computer vision and image processing techniques.  
-Real-time weather and sustainability analytics for crop optimization.  
-Interactive dashboard for farmers to input data and visualize insights.
+**Achievements:**
+- 🥇 1st Place – ScreenSmart Ideathon (School of ECE, REVA University)
+- 🏆 Finalist – Entellika Spark AI Hackathon (NIE, Mysore)
+- 🤖 Active contributor to GLUG, Robotics Club, Dev Track Club
+- 🎯 Recognized for innovative solutions in university tech events
 
+---
 
-Repo: https://github.com/bchaitanyareddy/agentic-ai-farming  
+## 🏆 Featured Projects
 
+### 🌱 Agentic-AI-for-Sustainable-Farming  
+Multi-agent AI system to recommend sustainable farming practices  
+**Tech Stack:** Python, Streamlit, SQLite, Pillow, Plotly, Pandas  
+**Features:**  
+- Soil type detection using computer vision  
+- Real-time weather and sustainability analytics  
+- Interactive dashboard for insights  
+🔗 [GitHub Repo](https://github.com/BChaitanyaReddy895/Agentic-AI-for-Sustainable-Farming)
 
-VEXA Chatbot
-A chatbot designed for the Sahayak Organization to enhance public engagement by answering queries about its mission and initiatives.  
+---
 
-Tech Stack: Python, TensorFlow, NLTK, Flask, HTML/CSS, JavaScript  
-Key Features:  
-User-friendly interface for seamless query interaction.  
-Accurate NLP-based responses for queries about the Sahayak NGO’s activities and goals.  
-Optimized for scalability and context-aware conversations.
+### 🤖 VEXA Chatbot  
+Chatbot for Sahayak NGO to answer queries about its mission  
+**Tech Stack:** Python, TensorFlow, NLTK, Flask, HTML/CSS, JS  
+**Features:**  
+- Seamless query interaction via a user-friendly UI  
+- NLP-powered, context-aware response system  
+🔗 [GitHub Repo](https://github.com/BChaitanyaReddy895/vexa_chatbot)
 
+---
 
-Repo: https://github.com/bchaitanyareddy/vexa-chatbot  
+### 🌐 Bangla to English Translator  
+Web application for text/image translation and site crawling  
+**Tech Stack:** Python, Flask, Tesseract OCR, BeautifulSoup, Bootstrap  
+**Features:**  
+- Bangla to English text/image translation using OCR  
+- Web crawling for full-site translation  
+- Keyword-based search in translated content  
+🔗 [GitHub Repo](https://github.com/BChaitanyaReddy895/Bengali_English_translator)
 
+---
 
-Bangla to English Translator
-A web application to translate Bangla text or images to English with web crawling and search capabilities.  
+## 📫 Get in Touch
 
-Tech Stack: Python, Flask, Tesseract OCR, BeautifulSoup, Bootstrap, JavaScript, HTML/CSS  
-Key Features:  
-Translates Bangla text and images to English with high accuracy using OCR and NLP.  
-Web crawling to translate entire Bengali websites into English.  
-Keyword-based search mechanism to fetch detailed information from translated content.
+- **LinkedIn:** [linkedin.com/in/b-chaitanya-reddy-63211728a](https://www.linkedin.com/in/b-chaitanya-reddy-63211728a/)
+- **Email:** chaituchaithanyareddy895@gmail.com  
+- **Portfolio:** [bchaitanyareddy.github.io](https://bchaitanyareddy.github.io)
 
+---
 
-Repo: https://github.com/bchaitanyareddy/bangla-translator  
- 
-
-📫 Get in Touch
-
-LinkedIn: https://www.linkedin.com/in/b-chaitanya-reddy-63211728a/  
-Email: chaituchaithanyareddy895@gmail.com  
-Portfolio: https://bchaitanyareddy.github.io  
-
-
-
-I'm excited to connect with recruiters, collaborators, and fellow developers to build innovative AI solutions. Let’s create something impactful together!
+> I'm excited to connect with recruiters, collaborators, and fellow developers to build innovative AI solutions. Let’s create something impactful together!
