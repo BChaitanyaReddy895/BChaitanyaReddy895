@@ -1,4 +1,4 @@
-Hi, I'm B Chaitanya Reddy 👋
+Hi, I'm B Chaitanya Reddy 👋\n
 I'm a passionate Machine Learning Engineer and AI Enthusiast pursuing a B.Tech in Computer Science and Engineering at REVA University, Bengaluru (Class of 2027). I specialize in machine learning, deep learning, and Python programming, leveraging libraries like NumPy, Pandas, Scikit-learn, and TensorFlow to build innovative and efficient solutions. I thrive in collaborative environments, solving complex problems and delivering impactful results. I'm actively seeking opportunities to contribute to cutting-edge AI and machine learning projects while growing as a professional.
 
 🚀 About Me
