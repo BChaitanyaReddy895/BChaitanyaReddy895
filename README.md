@@ -106,7 +106,7 @@ Web application for text/image translation and site crawling
 
 - **LinkedIn:** [linkedin.com/in/b-chaitanya-reddy-63211728a](https://www.linkedin.com/in/b-chaitanya-reddy-63211728a/)
 - **Email:** chaituchaithanyareddy895@gmail.com  
-- **Portfolio:** [bchaitanyareddy.onrender.com](https://bchaitanyareddy.onrender.com)
+- **Portfolio:** [bchaitanyareddy.onrender.com](https://bchaitanyareddy.onrender.com) or (https://chaitanya895-portfolio.hf.space)
 
 ---
 
