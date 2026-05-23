@@ -65,7 +65,7 @@ Aspiring Software Engineer with strong proficiency in Python and Java. I build s
 **Team Sahayak Foundation VEXA Chatbot V1 Launch** | *May 2025*  
 - Delivered an 8-minute presentation on the Vexa Chatbot, covering technical architecture, impact, and deployment for the Sahayak Organization.  
 - Shared the project launch video and showcased the chatbot’s real-world use case.  
-- [Presentation Video](https://drive.google.com/file/d/1zNCedqcqOxuD4WvIqn47wZLqG-jG5Qkf/view?usp=sharing)
+- [Presentation Video](https://drive.google.com/file/d/1vDoZFIdO8QzEUVexnqQx_O74HPp7usaq/view?usp=drivesdk)
 
 ---
 
@@ -129,7 +129,6 @@ Aspiring Software Engineer with strong proficiency in Python and Java. I build s
 - **LinkedIn:** https://www.linkedin.com/in/bchaitanyareddy  
 - **Email:** bchaitanyareddy895@gmail.com  
 - **Portfolio:** https://bchaitanyareddy895.github.io/BChaitanyaReddy_Portfolio/
-
 ---
 
 > I’m excited to collaborate with recruiters, mentors, and fellow developers on AI-driven products and scalable backend systems.
