@@ -1,113 +1,105 @@
 # Hi, I'm B Chaitanya Reddy
 
-**Aspiring Machine Learning Engineer | AI Enthusiast | B.Tech CSE @ REVA University (Class of 2027)**  
+**Python Developer | Data Analyst | Backend Developer | AI/ML Engineer**  
 Bengaluru, Karnataka, India
 
-I specialize in **Machine Learning**, **Deep Learning**, and **Python Programming**, leveraging libraries like **NumPy, Pandas, Scikit-learn, TensorFlow** to build efficient and innovative AI solutions. I thrive in collaborative environments, solving real-world problems with impactful results.
+Aspiring Software Engineer with strong proficiency in Python and Java. I build scalable backend applications, RESTful APIs, full-stack web solutions, and AI/ML-powered systems with a focus on production-grade reliability and real-world impact.
 
 ---
 
 ## About Me
 
-- **Currently working on:** *Agentic-AI-for-Sustainable-Farming*, a multi-agent AI framework integrating soil type detection and real-time analytics.
-- **Currently learning:** Generative AI, advanced deep learning, and large language model optimization (fine-tuning LLMs, RAG frameworks).
-- **Open to collaborating on:** Open-source AI projects, data science initiatives, and innovative startups.
-- **Fun fact:** I love developing problem-solving skills to tackle complex challenges effectively and simply.
-- **Extracurriculars:** Active member of **GLUG and Robotics Club**, and **Dev Track Club** at REVA University, contributing to hackathons, ideathons, and symposiums.
+- **Current role:** AI/ML Intern at CropNow
+- **Current focus:** production-ready backend systems, data analytics, and agent-based AI workflows
+- **Open to:** AI/ML internships, backend engineering roles, and collaborative open-source projects
+- **Strengths:** building REST APIs, deploying scalable systems, developing AI/ML pipelines, and delivering clean technical documentation
+- **Interests:** machine learning, data-driven web applications, and practical AI systems for sustainability
+
+---
+
+## Resume Highlights
+
+- AI/ML Intern at CropNow
+- Built projects including AquaJyoti, Agentic AI for Sustainable Farming, and SkillSync
+- Finalist in Smart India Hackathon (SIH 2025) Hardware Edition
+- 3rd Prize Winner - VIT Vellore CodeCortex 2.0
+- CGPA 9.67 at REVA University
+- Top 8.3% in GSSoC 2025
 
 ---
 
 ## Skills
 
-**Languages:** Python, Java, C  
-**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Flask, Streamlit, NLTK  
-**Tools & Platforms:** Git, Docker, Jupyter Notebook, VS Code  
-**Databases:** MySQL, SQLite  
-**Domains:** Machine Learning, Deep Learning, NLP, Data Science  
-**Other:** Data Visualization (Plotly, Seaborn), Web Crawling, Web Development (HTML/CSS, JS, Bootstrap)
+**Programming Languages:** Python,  C, Java, SQL  
+**Backend Development:** FastAPI, Flask, REST APIs, API Design, Endpoint Development  
+**Data & Analytics:** Data Analysis, Power BI, MySQL, SQLite  
+**Frontend Development:** HTML, CSS, JavaScript  
+**AI / ML Tools:** Machine Learning, NLP, Scikit-learn, TensorFlow, Hugging Face  
+**Tools & Platforms:** Git, GitHub, Docker, Jupyter, VS Code
 
 ---
 
 ## Experience
 
-### Team Contributor – Agentic-AI-for-Sustainable-Farming  
-**Dev Track Club, REVA University** | *May 2024 – Present*  
-- Designed a multi-agent AI framework for sustainable agriculture with specialized agents (Farmer, Weather Analyst, Sustainability Expert).
-- Implemented **soil type detection** using Pillow for image processing.
-- Integrated **SQLite** for farmer data storage and real-time analytics.
-- Built interactive UI with **Streamlit** and **Plotly**.
-
-### Key Developer – VEXA Chatbot (Sahayak Organization)  
-**Remote** | *Feb 2025 – Mar 2025*  
-- Developed a chatbot for the NGO to answer queries on initiatives and activities.
-- Applied **NLP using TensorFlow and NLTK** for contextual responses.
-- Focused on scalability and user interaction quality.
-
-### Lead Developer – Bangla to English Translator  
-**REVA University** | *Nov 2025 – Jun 2025*  
-- Created a translator for Bangla text/images to English.
-- Used **Tesseract OCR** and **web crawling** (BeautifulSoup) for full-site translation.
-- Added keyword-based search for detailed info retrieval from translated content.
+### AI/ML Intern – CropNow  
+**Nov 2025 – Feb 2026**  
+- Developed and integrated ML models into backend systems using Python.  
+- Collaborated with cross-functional teams to deliver scalable solutions.  
+- Performed debugging, testing, and validation of APIs to ensure reliability.  
+- Created technical documentation covering workflows, API details, and system design.
 
 ---
 
 ## Education
 
 **B.Tech in Computer Science and Engineering**  
-**REVA University, Bengaluru** | *Expected Graduation: May 2027*  
-**CGPA:** 9.75 / 10  
+**REVA University, Bangalore** | *Sep 2023 – Present*  
+**CGPA:** 9.67  
 
-**Relevant Coursework:**  
-Data Structures and Algorithms, DBMS, COA, OS, AI, C and Java Programming  
+**Relevant Coursework:** Data Structures and Algorithms, DBMS, COA, OS, Artificial Intelligence, C and Java Programming  
 
 **Achievements:**
-- 1st Place – ScreenSmart Ideathon (School of ECE, REVA University)
-- Finalist – Entellika Spark AI Hackathon (NIE, Mysore)
-- Active contributor to GLUG, Robotics Club, Dev Track Club
-- Recognized for innovative solutions in university tech events
+- Ranked Top 8.3% in GirlScript Summer of Code 2025  
+- Finalist in Smart India Hackathon 2025 Hardware Edition  
+- 3rd Prize Winner at VIT Vellore CodeCortex 2.0
 
 ---
 
 ## Featured Projects
 
-### Agentic-AI-for-Sustainable-Farming  
-Multi-agent AI system to recommend sustainable farming practices  
-**Tech Stack:** Python, Streamlit, SQLite, Pillow, Plotly, Pandas  
-**Features:**  
-- Soil type detection using computer vision  
-- Real-time weather and sustainability analytics  
-- Interactive dashboard for insights  
-  [GitHub Repo](https://github.com/BChaitanyaReddy895/Agentic-AI-for-Sustainable-Farming)
+### Agentic AI for Sustainable Farming  
+**Role:** End-to-End Developer  
+**Tech Stack:** FastAPI, Python, REST APIs, Agentic AI, Agricultural Analytics  
+**Live Demo:** https://agrismart-api-m8nz.onrender.com  
+**Repository:** https://github.com/BChaitanyaReddy895/Agentic-AI-for-Sustainable-Farming  
+**Overview:** Engineered 30+ production-grade REST APIs for crop planning, pest prediction, and multilingual chatbot workflows. Built a 5-agent decision support system and ML pipelines using 296K+ agricultural records.
 
 ---
 
-### VEXA Chatbot  
-Chatbot for Sahayak NGO to answer queries about its mission  
-**Tech Stack:** Python, TensorFlow, NLTK, Flask, HTML/CSS, JS  
-**Features:**  
-- Seamless query interaction via a user-friendly UI  
-- NLP-powered, context-aware response system  
-  [GitHub Repo](https://github.com/BChaitanyaReddy895/vexa_chatbot)
+### SkillSync: AI-Powered Internship Matching Platform  
+**Role:** Full Stack Developer  
+**Tech Stack:** Flask, Python, HTML, CSS, JavaScript, NLP, Machine Learning  
+**Live Demo:** https://chaitanya895-skillsync.hf.space  
+**Repository:** https://github.com/BChaitanyaReddy895/SkillSync  
+**Overview:** Developed a resume-job matching platform with intelligent scoring, skill extraction, and user-friendly frontend interaction.
 
 ---
 
-### Bangla to English Translator  
-Web application for text/image translation and site crawling  
-**Tech Stack:** Python, Flask, Tesseract OCR, BeautifulSoup, Bootstrap  
-**Features:**  
-- Bangla to English text/image translation using OCR  
-- Web crawling for full-site translation  
-- Keyword-based search in translated content  
-  [GitHub Repo](https://github.com/BChaitanyaReddy895/Bengali_English_translator)
+### AquaJyoti: Real-Time AI Microplastics Detection Platform  
+**Role:** SIH 2025 Hardware Edition  
+**Tech Stack:** Python, AI/ML, Ensemble Models, Raspberry Pi, Edge Deployment  
+**Repository:** https://github.com/BChaitanyaReddy895/AquaJyoti_SIH_ML  
+**Overview:** Built a two-stage inference platform for microplastics detection using an ensemble of 6 ML/DL models, deployed for reliable edge execution on Raspberry Pi.
 
 ---
 
 ## Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/bchaitanyareddy](https://www.linkedin.com/in/bchaitanyareddy)
-- **Email:** chaituchaithanyareddy895@gmail.com  
-- **Portfolio:** [bchaitanyareddy.onrender.com](https://bchaitanyareddy.onrender.com) or (https://chaitanya895-portfolio.hf.space)
+- **GitHub:** https://github.com/BChaitanyaReddy895  
+- **LinkedIn:** https://www.linkedin.com/in/bchaitanyareddy  
+- **Email:** bchaitanyareddy895@gmail.com  
+- **Portfolio:** https://bchaitanyareddy895.github.io/BChaitanyaReddy_Portfolio/ 
 
 ---
 
-> I'm excited to connect with recruiters, collaborators, and fellow developers to build innovative AI solutions. Let’s create something impactful together!
+> I’m excited to collaborate with recruiters, mentors, and fellow developers on AI-driven products and scalable backend systems.
