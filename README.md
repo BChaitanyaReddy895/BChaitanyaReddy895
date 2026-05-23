@@ -62,10 +62,10 @@ Aspiring Software Engineer with strong proficiency in Python and Java. I build s
 ## Talks
 
 ### Vexa Chatbot Launch – Speaker Session  
-**Team Sahayak Foundation VEXA Chatbot launch Tech Talk** | *May 2025*  
+**Team Sahayak Foundation VEXA Chatbot V1 Launch** | *May 2025*  
 - Delivered an 8-minute presentation on the Vexa Chatbot, covering technical architecture, impact, and deployment for the Sahayak Organization.  
 - Shared the project launch video and showcased the chatbot’s real-world use case.  
-- [Presentation Video](https://drive.google.com/file/d/1zNCedqcqOxuD4WvIqn47wZLqG-jG5Qkf/view?usp=sharing )
+- [Presentation Video](https://drive.google.com/file/d/1zNCedqcqOxuD4WvIqn47wZLqG-jG5Qkf/view?usp=sharing)
 
 ---
 
@@ -109,7 +109,7 @@ Aspiring Software Engineer with strong proficiency in Python and Java. I build s
 **Tech Stack:** Python, Deep Learning, PyTorch, Flask, HTML, CSS  
 **Live Demo:** https://chaitanya895-sahayak.hf.space  
 **Repository:** https://github.com/BChaitanyaReddy895/vexa_chatbot  
-**Presentation Video:** https://drive.google.com/file/d/1zNCedqcqOxuD4WvIqn47wZLqG-jG5Qkf/view?usp=sharing   
+**Presentation Video:** https://drive.google.com/file/d/1vDoZFIdO8QzEUVexnqQx_O74HPp7usaq/view?usp=drivesdk  
 **Overview:** Built an AI-powered chatbot for Sahayak Organization to answer queries about underprivileged children's development. Designed the NLP pipeline in PyTorch, developed a Flask backend for seamless interaction, and presented the project during an 8-minute launch talk.
 
 ---
@@ -118,6 +118,7 @@ Aspiring Software Engineer with strong proficiency in Python and Java. I build s
 **Role:** SIH 2025 Hardware Edition  
 **Tech Stack:** Python, AI/ML, Ensemble Models, Raspberry Pi, Edge Deployment  
 **Repository:** https://github.com/BChaitanyaReddy895/AquaJyoti_SIH_ML  
+**Demo Video:** https://drive.google.com/file/d/1A6lBvtbXTBPkPizmKQeNh4iGRF51tMRw/view?usp=drivesdk  
 **Overview:** Built a two-stage inference platform for microplastics detection using an ensemble of 6 ML/DL models, deployed for reliable edge execution on Raspberry Pi.
 
 ---
@@ -127,7 +128,7 @@ Aspiring Software Engineer with strong proficiency in Python and Java. I build s
 - **GitHub:** https://github.com/BChaitanyaReddy895  
 - **LinkedIn:** https://www.linkedin.com/in/bchaitanyareddy  
 - **Email:** bchaitanyareddy895@gmail.com  
-- **Portfolio:** https://bchaitanyareddy895.github.io/BChaitanyaReddy_Portfolio/ 
+- **Portfolio:** https://bchaitanyareddy895.github.io/BChaitanyaReddy_Portfolio/
 
 ---
 
